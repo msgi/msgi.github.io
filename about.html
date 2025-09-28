@@ -1,0 +1,89 @@
+---
+layout: page
+title: "About"
+description: "Hey, this is MSG."
+header-img: "img/about-bg.jpg"
+---
+
+<!-- Language Selector -->
+<select onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
+    <option value="0" selected> 中文 Chinese </option>
+    <option value="1"> 英语 English </option>
+</select>
+
+<!-- Chinese Version -->
+<div class="zh post-container">
+    <blockquote>
+        多读书，读好书，多写笔记，完善自己。
+        世界那么大，多去转转。
+    </blockquote>
+    <br>写出这个题目的时候我也在问自己，</br>
+
+
+<br>读书的意义到底是什么？</br>
+
+<br>当然，人读书不是为了变好看的。</br>
+
+<br>更当然，也不是为了变有钱。</br>
+
+<br>在这两个可能出现的附加值之外，读书的意义是——</br>
+
+<br>来，听他们说：</br>
+
+<br>陈丹青：读书有两个作用，一是让我自以为非，一是让我有一间自己的房子，有内心的生活。</br>
+
+<br>伏尔泰：当我们第一遍读一本好书的时候，我们仿佛觉得找到了一个朋友；当我们再一次读这本好书的时候，仿佛又和老朋友重逢。</br>
+
+<br>茨威格：一个人和书籍接触得愈亲密，他便愈加深刻地感到生活的统一，因为他的人格复化了，他不仅用他自己的眼睛观察，而且运用着无数心灵的眼睛，由于他们这种崇高的帮助，他将怀着挚爱的同情踏遍整个世界。</br>
+
+<br>毕淑敏：书不是胭脂，却会使女人心颜常驻。书不是棍棒，却会使女人铿锵有力。书不是羽毛，却会使女人飞翔。书不是万能的，却会使女人千变万化。</br>
+
+<br>网友：读书会让你内心笃定却又不会过于固执，它能让你看见他人眼中的世界，也能让你清楚的知晓自己。</br>
+
+<br>另一个网友：长期读书的人会明显不同——公众场合偏于安静，发言时直戳重点，逻辑清晰；做起事情专注度高，不会大声吵闹；学习能力强，接受新事物更快。</br>
+
+<br>在我看来，读书，不是为了读文字背句子讲段子，而是为了理解思想整理思维启发思考。读得再快背得再熟，你也不过是台复读机，只有通过原本读出自己，哪怕是浅陋的自己，你才能体会到阅读的真益。</br>
+
+<br>读书越少对环境越不满；读书越多对自己越不满意。读书少的人，看问题越主观，越简单，越容易对什么都抱怨。书读多了，眼界开阔了，分析思考问题的能力提高了，特别是从前人的经验与分析中，增加了自己对复杂问题的判断能力，知道怎样看问题，更知道自己的短处在哪里。抱怨什么，便知读书多少。</br>
+
+    <p style="text-align:right;">
+        —— <a href="https://www.jianshu.com/p/db59540b3250">王少挺 - 读书，是为了什么？ </a>
+    </p>
+
+</div>
+
+<!-- English Version -->
+<div class="en post-container">
+    <blockquote>
+        Designer or Engineer, things in between.
+    </blockquote>
+
+    <p>
+        Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it.
+    </p>
+
+    <p>
+    If you want to live your life in a creative way, as an artist, you have to not look back too much. You have to be willing to take whatever you’ve done and whoever you were and throw them away.
+    </p>
+
+    <p style="text-align:right;">
+    -- Steve Jobs
+    </p>
+
+</div>
+
+<!-- Handle Language Change -->
+<script type="text/javascript">
+    var $zh = document.querySelector(".zh");
+    var $en = document.querySelector(".en");
+    function onLanChange(index){
+        if(index == 0){
+            $zh.style.display = "block";
+            $en.style.display = "none";
+        }else{
+            $en.style.display = "block";
+            $zh.style.display = "none";
+        }
+    }
+    onLanChange(0);
+</script>
