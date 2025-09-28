@@ -32,209 +32,34 @@ $\sqrt[3]{X}$和$\sqrt{5 - x}$
 
 ### 005、关系运算符
 
-$\pm$
-
-$\times$
-
-$\div$
-
-$\mid$
-
-$\nmid$
-
-$\cdot$
-
-$\circ$
-
-$\ast$
-
-$\bigodot$
-
-$\bigotimes$
-
-$\bigoplus$
-
-$\leq$
-
-$\geq$
-
-$\neq$
-
-$\approx$
-
-$\equiv$
-
-$\sum$
-
-$\prod$
+$\pm$ $\times$ $\div$ $\mid$ $\nmid$ $\cdot$ $\circ$ $\ast$ $\bigodot$ $\bigotimes$ $\bigoplus$ $\leq$ $\geq$ $\neq$ $\approx$ $\equiv$ $\sum_{i=1}^{n} i$ $\prod$
 
 ### 006、对数运算符
 
-$\log$
-
-$\lg$
-
-$\ln$
+$\log$ $\lg$ $\ln$
 
 ### 007、三角运算符
 
-$\bot$
-
-$\angle$
-
-$\sin$
-
-$\cos$
-
-$\tan$
-
-$\cot$
-
-$\sec$
-
-$\csc$
+$\bot$ $\angle$ $\sin$ $\cos$ $\tan$ $\cot$ $\sec$ $\csc$
 
 ### 008、微积分运算符
 
-$\prime$
-
-$\int$
-
-$\iint$
-
-$\iiint$
-
-$\oint$
-
-$\lim$
-
-$\infty$
-
-$\nabla$
-
-$\mathrm{d}$
+$\prime$ $\int$ $\iint$ $\iiint$ $\oint$ $\lim$ $\infty$ $\nabla$ $\mathrm{d}$ $\hat{i}$ $\vec{i}$ 
 
 ### 009、集合运算符
 
-$\emptyset$
-
-$\in$
-
-$\notin$
-
-$\subset$
-
-$\subseteq$
-
-$\supseteq$
-
-$\bigcap$
-
-$\bigcup$
-
-$\bigvee$
-
-$\bigwedge$
-
-$\biguplus$
-
-$\bigsqcup$
+$\emptyset$ $\in$ $\notin$ $\subset$ $\subseteq$ $\supseteq$ $\bigcap$ $\bigcup$ $\bigvee$ $\bigwedge$ $\biguplus$ $\bigsqcup$
 
 ### 010、希腊字母
+  
+$A$ $B$ $\Gamma$ $\Delta$ $E$ $Z$ $H$ $\Theta$
 
+$I$ $K$ $Lambda$ $M$ $N$ $Xi$ $O$ $\Pi$
 
-$A$
+$P$ $\Sigma$ $T$ $\Upsilon$ $\Phi$ $X$ $\Psi$ $\Omega$
 
-$B$
+$\alpha$ $\beta$ $\gamma$ $\delta$ $\epsilon$ $\zeta$ $\eta$ $\theta$
 
-$\Gamma$
+$\iota$ $\kappa$ $\lambda$ $\mu$ $\nu$ $\xi$ $\omicron$ $\pi$
 
-$\Delta$
-
-$E$
-
-$Z$
-
-$H$
-
-$\Theta$
-
-$I$
-
-$K$
-
-$Lambda$
-
-$M$
-
-$N$
-
-$Xi$
-
-$O$
-
-$\Pi$
-
-$P$
-
-$\Sigma$
-
-$T$
-
-$\Upsilon$
-
-$\Phi$
-
-$X$
-
-$\Psi$
-
-$\Omega$
-
-$\alpha$
-
-$\beta$
-
-$\gamma$
-
-$\delta$
-
-$\epsilon$
-
-$\zeta$
-
-$\eta$
-
-$\theta$
-
-$\iota$
-
-$\kappa$
-
-$\lambda$
-
-$\mu$
-
-$\nu$
-
-$\xi$
-
-$\omicron$
-
-$\pi$
-
-$\rho$
-
-$\sigma$
-
-$\tau$
-
-$\upsilon$
-
-$\phi$
-
-$\chi$
-
-$\psi$
-
-$\omega$
+$\rho$ $\sigma$ $\tau$ $\upsilon$ $\phi$ $\chi$ $\psi$ $\omega$
